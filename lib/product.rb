@@ -26,6 +26,10 @@ class Product
     @@products.select{|product| product.in_stock?}
   end
   
+  def to_s
+    "Product: #{@title} [ #{@price} ]"
+  end
+  
   private
   
   def add_to_products

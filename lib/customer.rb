@@ -20,6 +20,10 @@ class Customer
     @@customers.find{|customer| customer.name === name}
   end
   
+  def to_s
+    "Customer: #{@name}"
+  end
+  
   private
   
   def add_to_customers
