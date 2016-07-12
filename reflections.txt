@@ -1,0 +1,7 @@
+1. Few hours, around 5 - took me whole evening but I was playing Pokemon GO a little bit too :P
+
+2. I don't think there were less and more challenging parts but after I finished this project I like how models are linked together, thats something different from things im doing in PHP normally. Nice
+
+3. First one was to make more find functions for transactions - I think this is common feature in projects like that and that's why I did it. After I've implemented find functions, results didnt look very descriptive. So as my second feature I've added some to_s functions to models.
+
+4. Oh there is a lot of things you could do in this project. But must rewarding would be to do some kind of interface so user could use it without need of changing code.
